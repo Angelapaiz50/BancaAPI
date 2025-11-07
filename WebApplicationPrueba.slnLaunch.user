@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "APaiz",
+    "Projects": [
+      {
+        "Path": "WebApplication1prueba\\BancaAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Library\\Library.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
